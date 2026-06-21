@@ -16,6 +16,6 @@ I created this space to document my journey, track my progress, and share what I
 
 ## Discussions
 
-Most posts will be shared through the Discussions section of this repository. Feel free to read, follow along, and join the conversation.
+Most posts will be shared through the Discussions tab of this repository. Feel free to read, follow along, and join the conversation.
 ***
-Thanks for stopping by!
+Thanks for stopping by! 
